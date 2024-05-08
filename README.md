@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2023%2F09%2F26%2Ffrom-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024%2F&psig=AOvVaw2dSiAZWh59uiyJoxTImZ4v&ust=1715262182567000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID8ndqX_oUDFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.unite.ai/wp-content/uploads/2022/05/Image-Processing-Python-Libraries.png)
 
 <h1 align="center">Hi 👋, I'm Kübra ÖZCAN</h1>
 <h3 align="center">A passionate software developer with a keen interest in artificial intelligence, deep learning, and computer vision. I am dedicated to creating innovative technological solutions that simplify life and enhance user experiences. My goal is to leverage my skills and knowledge to develop cutting-edge applications that make a difference.</h3>
@@ -37,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubra-ozcan&show_icons=true&locale=en" alt="kubra-ozcan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubra-ozcan&" alt="kubra-ozcan" /></p>
+
